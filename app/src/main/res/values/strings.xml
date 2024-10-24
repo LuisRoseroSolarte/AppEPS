@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EPPSdigital</string>
+    <string name="title_activity_formulario">formulario</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+</resources>
